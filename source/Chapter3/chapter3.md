@@ -45,13 +45,13 @@
 标注结果用依存图结构表示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\{J3\@KW1I83ZAHO9\`C@\~AR%P.png](media/image10.png){width="3.5833333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\{J3\@KW1I83ZAHO9\`C@\~AR%P.png](../media/image010.gif){width="3.5833333333333335in"
 height="0.9555555555555556in"}
 
 图 7体词性成分做中枢论元示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\%I1PE16LUO\[D2QIO\@9MWM0C.png](media/image11.png){width="3.65625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\%I1PE16LUO\[D2QIO\@9MWM0C.png](../media/image011.png){width="3.65625in"
 height="1.0208333333333333in"}
 
 图 8体词性成分做中枢论元示例2
@@ -66,7 +66,7 @@ height="1.0208333333333333in"}
 标注结果用依存图结构形式表示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\5EP6Q0PRVINPXE\[OJ\$CI\$78.png](media/image12.png){width="3.09375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\5EP6Q0PRVINPXE\[OJ\$CI\$78.png](../media/image12.gif){width="3.09375in"
 height="0.8930555555555556in"}
 
 图 9体词性成分做中枢论元示例3
