@@ -45,7 +45,7 @@
 标注结果用依存图结构表示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\{J3\@KW1I83ZAHO9\`C@\~AR%P.png](../media/image010.gif){width="3.5833333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\{J3\@KW1I83ZAHO9\`C@\~AR%P.png](../media/image010.png){width="3.5833333333333335in"
 height="0.9555555555555556in"}
 
 图 7体词性成分做中枢论元示例1
@@ -72,7 +72,7 @@ height="0.8930555555555556in"}
 图 9体词性成分做中枢论元示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\TJW\]J86AO\`A\$08KT3\`AC%M5.png](media/image13.png){width="3.0625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\TJW\]J86AO\`A\$08KT3\`AC%M5.png](../media/image13.png){width="3.0625in"
 height="0.9631944444444445in"}
 
 图 10体词性成分做中枢论元示例4
@@ -91,13 +91,13 @@ height="0.9631944444444445in"}
 标注结果依存图结构表示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\]041%\_PA\@ALRU)\~Z\@ZU\[%2H.png](media/image14.png){width="2.21875in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\]041%\_PA\@ALRU)\~Z\@ZU\[%2H.png](../media/image14.png){width="2.21875in"
 height="0.8125in"}
 
 图 11形容词充当中枢论元示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\_}WF\]\$8\~L7KZDDH\@W0EDHVW.png](media/image15.png){width="2.14375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\_}WF\]\$8\~L7KZDDH\@W0EDHVW.png](../media/image15.png){width="2.14375in"
 height="0.6458333333333334in"}
 
 图 12形容词充当中枢论元示例2
@@ -111,13 +111,13 @@ height="0.6458333333333334in"}
 标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\1\~7G@)ANQB\@99\~3XQ\~TFML4.png](media/image16.png){width="5.768055555555556in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\1\~7G@)ANQB\@99\~3XQ\~TFML4.png](../media/image16.png){width="5.768055555555556in"
 height="0.8659722222222223in"}
 
 图 13形容词充当中枢论元示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\MDL)J3)6E7\~ONIKKABLY0\[C.png](media/image17.png){width="5.767361111111111in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\MDL)J3)6E7\~ONIKKABLY0\[C.png](../media/image17.png){width="5.767361111111111in"
 height="0.8020833333333334in"}
 
 图 14形容词充当中枢论元示例4
@@ -135,13 +135,13 @@ height="0.8020833333333334in"}
 分析：该事件只有一个动词"处分"，所以将root指向"处分"，其余标注成分按照语义关系进行标注，标注结果用依存图形式表示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\NF2Y7N(N4F\[6\[)@%JF0\@OZR.png](media/image18.png){width="3.78125in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\NF2Y7N(N4F\[6\[)@%JF0\@OZR.png](../media/image18.png){width="3.78125in"
 height="0.9993055555555556in"}
 
 图 15动词充当中枢论元示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\%4\$\[O\]T9\_\_)QAER)L1(\]ETS.png](media/image19.png){width="3.8020833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\%4\$\[O\]T9\_\_)QAER)L1(\]ETS.png](../media/image19.png){width="3.8020833333333335in"
 height="0.9138888888888889in"}
 
 图 16动词充当中枢论元示例2
@@ -157,13 +157,13 @@ height="0.9138888888888889in"}
 例1中有两个动词------"着手"和"进行"，进行的语义较虚，所以把root指向"着手"；同理，例2将root指向研究，尽管从语言学上讲，研究已经"名词化"了，但是相对于进行来说，它依然是这一语义事件的核心述谓概念。以例1为例，标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\3F}A\_J2\]HJ7\_6%{1@\]VJ9}H.png](media/image20.png){width="4.364583333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\3F}A\_J2\]HJ7\_6%{1@\]VJ9}H.png](../media/image20.png){width="4.364583333333333in"
 height="1.1777777777777778in"}
 
 图 17动词充当中枢论元示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\{GJ(888UKV%\$P6SI1\$I{GQ3.png](media/image21.png){width="4.5in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\{GJ(888UKV%\$P6SI1\$I{GQ3.png](../media/image21.png){width="4.5in"
 height="1.1694444444444445in"}
 
 图 18动词充当中枢论元示例4
@@ -173,13 +173,13 @@ height="1.1694444444444445in"}
 例3从句法上讲，是一个并列复句，从语义上讲，是一个事链。两个动词"写"和"听"对于这个事链的贡献值是一样的。所以，我们默认将root指向第一个述谓概念。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\)RC\[XVTJ0\[N\@Q6(UP\]H{RXB.png](media/image22.png){width="4.78125in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\)RC\[XVTJ0\[N\@Q6(UP\]H{RXB.png](../media/image22.png){width="4.78125in"
 height="0.9777777777777777in"}
 
 图 19动词充当中枢论元示例5
 
 > ![C:\\Users\\cheng\\Documents\\Tencent
-> Files\\1501808365\\FileRecv\\MobileFile\\Image\\H2I50VG5WC\]RYSX07){%)XU.png](media/image23.png){width="4.435416666666667in"
+> Files\\1501808365\\FileRecv\\MobileFile\\Image\\H2I50VG5WC\]RYSX07){%)XU.png](../media/image23.png){width="4.435416666666667in"
 > height="0.8854166666666666in"}
 
 图 20动词充当中枢论元示例6
@@ -191,13 +191,13 @@ height="0.9777777777777777in"}
 例4和例5都涉及到了主谓短语充当某一句法成分的情况。例4是主谓短语做宾语，例5是主谓短语做主语句。这时候，两个动词在语义事件上的地位是不平等的，即这个主谓短语是做了核心动词的一个论元，具体来说，就是"他来"是希望的一个客事角色。所以我们将root指向句子主干中的述谓概念，主谓短语中的述谓概念做降级关系处理。以例4为例，标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\~JH(VS}45CQJ\_\`L0C@)NOR6.png](media/image24.png){width="2.5625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\~JH(VS}45CQJ\_\`L0C@)NOR6.png](../media/image24.png){width="2.5625in"
 height="0.5395833333333333in"}
 
 图 21动词充当中枢论元示例7
 
 > ![C:\\Users\\cheng\\Documents\\Tencent
-> Files\\1501808365\\FileRecv\\MobileFile\\Image\\S351(\@V\]0B){U\[2FCUHJ\_6A.png](media/image25.png){width="2.9895833333333335in"
+> Files\\1501808365\\FileRecv\\MobileFile\\Image\\S351(\@V\]0B){U\[2FCUHJ\_6A.png](../media/image25.png){width="2.9895833333333335in"
 > height="0.6131944444444445in"}
 
 图 22动词充当中枢论元示例8
@@ -207,13 +207,13 @@ height="0.5395833333333333in"}
 例6中也有两个动词，"看"和"剪"。但是动词"剪"在这里并不是一个述谓概念，而是转位做了指称概念，充当一个修饰成分，所以root指向"看"，而"剪"被标注为反关系。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\[\$RBU3J9L\]ET1L7CDOVXF\[1.png](media/image26.png){width="4.104166666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\[\$RBU3J9L\]ET1L7CDOVXF\[1.png](../media/image26.png){width="4.104166666666667in"
 height="1.1333333333333333in"}
 
 图 23动词充当中枢论元示例9
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\16{B0WUL6\[5PPM9{4%2XC6J.png](media/image27.png){width="4.479166666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\16{B0WUL6\[5PPM9{4%2XC6J.png](../media/image27.png){width="4.479166666666667in"
 height="1.25in"}
 
 图 24动词充当中枢论元示例10
@@ -284,13 +284,13 @@ a组和b组句子是例（5）到例（7）的变体，a组句子是将所有的
 这两个例句一肯一否，都是"是"作为判断动词的用法。"是"作为判断词，是一种特殊的动词，判断词加名词构成一个"合成谓语"。所以，"是"的客体角色是相对固定的，粗粒度标签是系事角色，细粒度标签为类事角色，而主体角色需要根据相应的语言情况进行标注。具体分析例2------"这"是一个范围角色，"书"是系事角色（类事角色），"新"是一个修饰角色，"不"是否定修饰。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\7R{Y\]KHCNUBG59INS4\[K\@1U.png](media/image28.png){width="3.4895833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\7R{Y\]KHCNUBG59INS4\[K\@1U.png](../media/image28.png){width="3.4895833333333335in"
 height="0.6555555555555556in"}
 
 图 25判断动词示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\LL9LV0\[\_YVHLNE\`JKBSJ4LL.png](media/image29.png){width="3.3541666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\LL9LV0\[\_YVHLNE\`JKBSJ4LL.png](../media/image29.png){width="3.3541666666666665in"
 height="0.7222222222222222in"}
 
 图 26判断动词示例2
@@ -310,13 +310,13 @@ height="0.7222222222222222in"}
 例（2）与例（3）形式上都是"是......的"的结构，但是二者表达含义不同。例（2）是副词"是"，需要标注为依附标记，而例（3）是判断动词"是"，需要标注为中枢论元root。以例2为例，"老肖"是知道的主体角色（粗粒度为施事角色额，细粒度为感事角色），"他的家底"是"知道"的客体角色（粗细标签皆为当事角色），而"是"和"的"是依附标记。所以标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\BS72J\]}1OJK3\@AJ\]Q%\]X453.png](media/image30.png){width="4.041666666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\BS72J\]}1OJK3\@AJ\]Q%\]X453.png](../media/image30.png){width="4.041666666666667in"
 height="1.1263888888888889in"}
 
 图 27判断动词示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`4{}H%5Y{YD02}YPX\@MX3RB.png](media/image31.png){width="4.010416666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`4{}H%5Y{YD02}YPX\@MX3RB.png](../media/image31.png){width="4.010416666666667in"
 height="1.1520833333333333in"}
 
 图 28判断动词示例4
@@ -332,13 +332,13 @@ height="1.1520833333333333in"}
 例1中的"不是，就是"是表示选择关系的连词，我们将它们的粗粒度标签标注为关系标记mRELA，细粒度标签标注为连词标记mConj。例2中的"不是、而是"虽然从形式上看是连词，但是实际上是判断动词，真正的连词是"而"。第一个"是"是root，第二个"是"是表示选择关系的另一个事件，应该标注为eSelt（粗细粒度标签相同），依附在第一个"是"上。例2的标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\}E2\`FB\@J0BQ0\$TME4AB(ASW.png](media/image32.png){width="5.385416666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\}E2\`FB\@J0BQ0\$TME4AB(ASW.png](../media/image32.png){width="5.385416666666667in"
 height="0.875in"}
 
 图 29判断动词示例5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\EGP3YO@(AN%4WR4X54CFZQI.png](media/image33.png){width="5.208333333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\EGP3YO@(AN%4WR4X54CFZQI.png](../media/image33.png){width="5.208333333333333in"
 height="0.9381944444444444in"}
 
 图 30判断动词示例6
@@ -362,13 +362,13 @@ height="0.9381944444444444in"}
 分析：以句1为例，中枢论元是"研究"，"他们"是研究的主体，"正在"表示的是时间，而"进行"的作用是将研究名词化。所以，标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\@6E\`(3\]ZZWZA}WJ23%MLX58.png](media/image34.png){width="3.28125in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\@6E\`(3\]ZZWZA}WJ23%MLX58.png](../media/image34.png){width="3.28125in"
 height="0.9090277777777778in"}
 
 图 31形式动词示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\7{\${HY)(DOCQ9\_\_QUZBK6Z8.png](media/image35.png){width="3.4375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\7{\${HY)(DOCQ9\_\_QUZBK6Z8.png](../media/image35.png){width="3.4375in"
 height="0.9305555555555556in"}
 
 图 32形式动词示例2
@@ -382,13 +382,13 @@ height="0.9305555555555556in"}
 分析：以句1为例，该句只有一个谓词，即进行，所以它被标注为中枢论元，考试是当事角色，三个小时是时间角色。所以，标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\8KQUCEHSL{R6\_CJNB8U\`\_}U.png](media/image36.png){width="3.7291666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\8KQUCEHSL{R6\_CJNB8U\`\_}U.png](../media/image36.png){width="3.7291666666666665in"
 height="1.0152777777777777in"}
 
 图 33形式动词示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\7JBR2VN{FS\`\`\~KVZCAYMIWT.png](media/image37.png){width="3.6770833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\7JBR2VN{FS\`\`\~KVZCAYMIWT.png](../media/image37.png){width="3.6770833333333335in"
 height="1.0166666666666666in"}
 
 图 34形式动词示例4
@@ -400,13 +400,13 @@ height="1.0166666666666666in"}
 分析："开始"和"干"都是动词，似乎都可以充当中枢论元，但是我们规定将root指向了"开始"，而"干"是"开始"的一个后继动作，所以标注为后继事件关系。标注结果用依存图结构表示如下：
 
 > ![C:\\Users\\cheng\\Documents\\Tencent
-> Files\\1501808365\\FileRecv\\MobileFile\\Image\\(PF\_\]2JGG{JD{\_7DA2L\$\[\_4.png](media/image38.png){width="3.1458333333333335in"
+> Files\\1501808365\\FileRecv\\MobileFile\\Image\\(PF\_\]2JGG{JD{\_7DA2L\$\[\_4.png](../media/image38.png){width="3.1458333333333335in"
 > height="0.79375in"}
 
 图 35形式动词示例5
 
 > ![C:\\Users\\cheng\\Documents\\Tencent
-> Files\\1501808365\\FileRecv\\MobileFile\\Image\\69HB}CLVYG\~84CCA4KN2P0T.png](media/image39.png){width="3.2708333333333335in"
+> Files\\1501808365\\FileRecv\\MobileFile\\Image\\69HB}CLVYG\~84CCA4KN2P0T.png](../media/image39.png){width="3.2708333333333335in"
 > height="0.8125in"}
 
 图 36形式动词示例
@@ -424,7 +424,7 @@ height="1.0166666666666666in"}
 表格 6趋向动词总表
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\X{I)W3\_LQ5\~Z\]\_NB9)UOER3.png](media/image40.png){width="4.520833333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\X{I)W3\_LQ5\~Z\]\_NB9)UOER3.png](../media/image40.png){width="4.520833333333333in"
 height="1.2513888888888889in"}
 
 根据不同的用法，趋向动词也有不同的标注方法。
@@ -438,13 +438,13 @@ height="1.2513888888888889in"}
 分析：本句中的"下去"和"出来"都是趋向动词，我们将root指向第一个趋向动词"下去"，而"出来"是前一句的一个后继事件，依附在"下去"上，标注为后继事件关系eSucc。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\_P1K\$LY{H\`1\$UY8WET63)8U.png](media/image41.png){width="4.416666666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\_P1K\$LY{H\`1\$UY8WET63)8U.png](../media/image41.png){width="4.416666666666667in"
 height="1.0576388888888888in"}
 
 图 37趋向动词示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\_P1K\$LY{H\`1\$UY8WET63)8U.png](media/image41.png){width="4.510416666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\_P1K\$LY{H\`1\$UY8WET63)8U.png](../media/image41.png){width="4.510416666666667in"
 height="1.086111111111111in"}
 
 图 38趋向动词示例2
@@ -462,25 +462,25 @@ height="1.086111111111111in"}
 例1中的"起来"是趋向标记mDir，例2中的"过"是时间标记mTime。都依附于之前的动词做趋向补语，粗粒度标签为mDEPD。前文讲过，趋向补语可以分开使用，例3中当"出来"合用时，依存弧指向"拿"，当"出来"分开用时，将"出"指向"拿"，"来"指向"出"，粗粒度标签标注为依附标记mDEPD，细粒度标签分别标注为趋向标记mDir和离合标记mSepa。有时候趋向动词做补语时意义非常虚化，例如口语中常说的"说起来、谈起来、想起来"等，我们也都将粗粒度标签标注为mDEPD，细粒度标注为虚化标记mVain。以句3为例，标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\JATY3\~Q8\@W3OK)12OK6\[FV8.png](media/image42.png){width="3.625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\JATY3\~Q8\@W3OK)12OK6\[FV8.png](../media/image42.png){width="3.625in"
 height="1.03125in"}
 
 图 39趋向动词示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\VAB\$T4LJHPH\_RMJU4BJELIF.png](media/image43.png){width="3.6770833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\VAB\$T4LJHPH\_RMJU4BJELIF.png](../media/image43.png){width="3.6770833333333335in"
 height="1.1388888888888888in"}
 
 图 40趋向动词示例4
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\(MK\`WPP\`Y(%X631RN\$I(QWH.png](media/image44.png){width="3.78125in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\(MK\`WPP\`Y(%X631RN\$I(QWH.png](../media/image44.png){width="3.78125in"
 height="0.925in"}
 
 图 41趋向动词示例5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\77Y)I%8BI61}8\[DZ76J8%Q9.png](media/image45.png){width="3.21875in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\77Y)I%8BI61}8\[DZ76J8%Q9.png](../media/image45.png){width="3.21875in"
 height="0.8395833333333333in"}
 
 图 42趋向动词示例6
@@ -506,13 +506,13 @@ height="0.8395833333333333in"}
 分析：本句中，"喜欢"是中枢论元root，而"台湾人"是"喜欢"的主体感事角色Aft，"音乐"是"喜欢"的客事Cont，需要提出的是，疑问代词"哪"依附在类上，表示的是类别的范围，所以标注为范围角色。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\)O6V\_BXFFLZ\@F{V\[FYC5CM6.png](media/image46.png){width="5.2125in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\)O6V\_BXFFLZ\@F{V\[FYC5CM6.png](../media/image46.png){width="5.2125in"
 height="0.9791666666666666in"}
 
 图 43心理活动动词示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`CDI\_AN\`)HW@)\]}HOKZLC0X.png](media/image47.png){width="5.052083333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`CDI\_AN\`)HW@)\]}HOKZLC0X.png](../media/image47.png){width="5.052083333333333in"
 height="0.9305555555555556in"}
 
 图 44心理活动动词示例2
@@ -526,13 +526,13 @@ height="0.9305555555555556in"}
 分析：本句中，"喜欢"是中枢论元root，而"我"是喜欢的主体感事角色Aft，动宾短语"写作业"是"喜欢"的客事角色，又因为是降级关系，所以依存弧由"写"指向"喜欢"，标签为dCont，表示降级客事关系，而"作业"是"写"的客事角色Cont。标注写过如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\VEDMZ\$Q2O0}\[8}Z5\$F@%%\$2.png](media/image48.png){width="3.4375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\VEDMZ\$Q2O0}\[8}Z5\$F@%%\$2.png](../media/image48.png){width="3.4375in"
 height="0.8479166666666667in"}
 
 图 45心理活动动词示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\@)L\@M{MA@\~50D\$Y0C\$PEHU6.png](media/image49.png){width="3.5833333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\@)L\@M{MA@\~50D\$Y0C\$PEHU6.png](../media/image49.png){width="3.5833333333333335in"
 height="0.9729166666666667in"}
 
 图 46心理活动动词示例4
@@ -546,13 +546,13 @@ height="0.9729166666666667in"}
 分析：本句中，"喜欢"是中枢论元root，而"我"是喜欢""的主体角色，"喜欢"的客事是一个主谓短语"她聪明"，所以标注为dCont，依存弧由"喜欢"指向"聪明"，同时，"她"是"喜欢"的客事Cont，"她"又是"聪明"的主体当事角色Exp。完整的标注结构如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\6V0JEN\[MGAC8OXF\]%M32)XP.png](media/image50.png){width="4.09375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\6V0JEN\[MGAC8OXF\]%M32)XP.png](../media/image50.png){width="4.09375in"
 height="0.9270833333333334in"}
 
 图 47心理活动动词示例5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\ST454\[96RZ\`%FPX4\_3(VU5G.png](media/image51.png){width="3.8958333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\ST454\[96RZ\`%FPX4\_3(VU5G.png](../media/image51.png){width="3.8958333333333335in"
 height="0.9479166666666666in"}
 
 图 48心理活动动词示例6
@@ -572,13 +572,13 @@ height="0.9479166666666666in"}
 分析：以句1为例，root为"退休"，"要"依附在"退休"上，标注为mDepd，表示这是一个依附性成分。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\8SY%6Z6RU4G1(XUAQZCFU2Y.png](media/image52.png){width="4.083333333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\8SY%6Z6RU4G1(XUAQZCFU2Y.png](../media/image52.png){width="4.083333333333333in"
 height="1.0958333333333334in"}
 
 图 49能愿动词示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\16\[49(5\`P\[\`2S9\[P\_YWI\`ZX.png](media/image53.png){width="3.9993055555555554in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\16\[49(5\`P\[\`2S9\[P\_YWI\`ZX.png](../media/image53.png){width="3.9993055555555554in"
 height="1.09375in"}
 
 图 50能愿动词示例2
@@ -592,13 +592,13 @@ height="1.09375in"}
 分析：本句中的"要"在这里是一个一般性的动作行为动词，标注为中枢论元root，"我"是主体角色，"茶"是客体角色。对应的标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\()WI\~R2DJ2IV(\[\@LJ2Q332M.png](media/image54.png){width="3.5729166666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\()WI\~R2DJ2IV(\[\@LJ2Q332M.png](../media/image54.png){width="3.5729166666666665in"
 height="0.9423611111111111in"}
 
 图 51能愿动词示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\{F71\@A3EDRFTEX{ZM2\$\@7BC.png](media/image55.png){width="3.65625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\{F71\@A3EDRFTEX{ZM2\$\@7BC.png](../media/image55.png){width="3.65625in"
 height="0.9027777777777778in"}
 
 图 52能愿动词示例4
@@ -623,25 +623,25 @@ height="0.9027777777777778in"}
 单音节动词的重叠式为"AA式"，例如："想想"、"说说"等。变体形式为"A一A式"或者"A了A式"。在实际待标语句中，由于分词结果，AA式重叠常常被分成一个词语，可以单独作一个述谓概念，而"A一A式"以及"A了A式"，在分词时常常被分成三个待标成分。标注时，我们把第一个A作为核心，依存弧指向第二个A，标注为语义依附标记mDEPD，细粒度标注标签为重复标记mRept，表示第二个A和第一个A实际是一个词，中间的插入成分粗粒度标签标注为依附标记mDEPD，细粒度标签标注为时间标记mTime（了）或者频次标记mFreq（一），也是依附在第一个A上。标注范式如下图：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\4\~ZXI89416RB\~I14%2J\`\_SY.png](media/image56.png){width="2.40625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\4\~ZXI89416RB\~I14%2J\`\_SY.png](../media/image56.png){width="2.40625in"
 height="0.71875in"}
 
 图 53重叠式范式1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\%\]\$XIQJD43C0J97)L)AFD7H.png](media/image57.png){width="2.40625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\%\]\$XIQJD43C0J97)L)AFD7H.png](../media/image57.png){width="2.40625in"
 height="0.65625in"}
 
 图 54重叠式范式2
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\98\]\~O4MMPX9LDHM%P\@G}TPF.png](media/image58.png){width="2.3541666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\98\]\~O4MMPX9LDHM%P\@G}TPF.png](../media/image58.png){width="2.3541666666666665in"
 height="0.65625in"}
 
 图 55重叠式范式3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\MM)RHV\`AT\]XMF15}\[J8{3}R.png](media/image59.png){width="2.3229166666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\MM)RHV\`AT\]XMF15}\[J8{3}R.png](../media/image59.png){width="2.3229166666666665in"
 height="0.6666666666666666in"}
 
 图 56重叠式范式4
@@ -651,13 +651,13 @@ height="0.6666666666666666in"}
 分析：本句中root指向第一个"说"，而"他"和"他的想法"分别是"说"的主客体角色。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\~TINL1%W\@X6D\$M04U\]KW\$2G.png](media/image60.png){width="3.5104166666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\~TINL1%W\@X6D\$M04U\]KW\$2G.png](../media/image60.png){width="3.5104166666666665in"
 height="0.9506944444444444in"}
 
 图 57重叠式示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\(S5WTPMH@{OA)NS4)5(IFXC.png](media/image61.png){width="4.135416666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\(S5WTPMH@{OA)NS4)5(IFXC.png](../media/image61.png){width="4.135416666666667in"
 height="1.1194444444444445in"}
 
 图 58重叠式示例2
@@ -665,13 +665,13 @@ height="1.1194444444444445in"}
 双音节动词的重叠式为"ABAB式"，例如："研究研究"、"打扫打扫"等。分词的结果通常是AB/AB，，我们把第一个AB作为核心，第二个AB依附在其上，粗粒度标签标注为依附标记mDEPD，细粒度标注标签为重复标记mRept，表示这是一个重复性的话语。标注范式如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\$QSI3J\@DQ\@WA\~W1\]BT\`8B\$J.png](media/image62.png){width="2.0208333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\$QSI3J\@DQ\@WA\~W1\]BT\`8B\$J.png](../media/image62.png){width="2.0208333333333335in"
 height="0.6666666666666666in"}
 
 图 59重叠式范式5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\9JFKV8\]\$VHZ)5SQ{PBVYB(P.png](media/image63.png){width="1.8541666666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\9JFKV8\]\$VHZ)5SQ{PBVYB(P.png](../media/image63.png){width="1.8541666666666667in"
 height="0.6875in"}
 
 图 60重叠式范式6
@@ -681,13 +681,13 @@ height="0.6875in"}
 分析：本句中，"研究1"是句子的中枢论元，"我"和"这个课题"分别是研究的主客体角色。标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\$)\~HF}D4BUW502YMKF(CD)N.png](media/image64.png){width="3.665277777777778in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\$)\~HF}D4BUW502YMKF(CD)N.png](../media/image64.png){width="3.665277777777778in"
 height="1.0277777777777777in"}
 
 图 61重叠式示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\5{N3\_CXI{YP1L\]{9RVLJPIR.png](media/image65.png){width="3.6979166666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\5{N3\_CXI{YP1L\]{9RVLJPIR.png](../media/image65.png){width="3.6979166666666665in"
 height="1.01875in"}
 
 图 62重叠式示例4
@@ -699,13 +699,13 @@ height="1.01875in"}
 分析：我们同样把第二个"开会"作为第一个"开会"的重复成分，标注为标注重复标记mRept，粗粒度标签为依附标记mDEPD。结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\%30)M}2AJ7O4\$W8\$9\_1\_(ZO.png](media/image66.png){width="3.7291666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\%30)M}2AJ7O4\$W8\$9\_1\_(ZO.png](../media/image66.png){width="3.7291666666666665in"
 height="0.79375in"}
 
 图 63重叠式示例5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\1\@ZU2J40KY\~%YF5\_\[7PD0L7.png](media/image67.png){width="4.072916666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\1\@ZU2J40KY\~%YF5\_\[7PD0L7.png](../media/image67.png){width="4.072916666666667in"
 height="0.7833333333333333in"}
 
 图 64重叠式示例6
@@ -721,13 +721,13 @@ height="0.7833333333333333in"}
 当离合词分开使用的时候，中间可以添加其他成分，例如"洗澡"、"洗个澡"、"洗个热水澡"等动宾短语，从语义上说，一般宾语是动词的客事角色，但是，在标注的时候，我们不将动词支配的宾语标注为该动词的离合标记mSepa。这是因为，离合标记连接的两个成分一定是动宾短语，而如果我们标注为普通动宾短语的话，就难以抽取出离合短语应有的结构特征。但是将细粒度标签升级为粗粒度标签的时候，要将离合标记升级成为客事角色CONT。这样的处理策略，既能在粗粒度标签体系下体现离合短语动宾结构的特征，又能在细粒度标签体系下对离合短语进行特殊化处理，彰显出汉语离合短语的特殊性。如果我们可以将离合词AB的形式表示为"A......B"的话，那么标注范式为：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`CD{151UDH9V7ZBV8I}7T(Q.png](media/image68.png){width="2.59375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`CD{151UDH9V7ZBV8I}7T(Q.png](../media/image68.png){width="2.59375in"
 height="0.7604166666666666in"}
 
 图 65离合式范式1
 
 ![C:\\Users\\cheng\\AppData\\Local\\Temp\\WeChat
-Files\\5f675bca4844a4f117d6b6163a42b16.png](media/image69.png){width="2.4270833333333335in"
+Files\\5f675bca4844a4f117d6b6163a42b16.png](../media/image69.png){width="2.4270833333333335in"
 height="0.6784722222222223in"}
 
 图 66离合式范式2
@@ -741,13 +741,13 @@ height="0.6784722222222223in"}
 分析：句1是离合词分开使用的情况，句2是离合词合用的情况。对于句1来说，"洗个热水澡"是"想"的降级客事角色dCont，中间添加的成分按照实际语义关系进行标注，比如"个"是"洗"的依附成分，"热水"是"澡"的修饰成分；而句2中"洗澡"合用，是"想"的客事角色。句1的标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\%5937\~2NQNM(LWSN8HQK\[ZB.png](media/image70.png){width="3.8541666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\%5937\~2NQNM(LWSN8HQK\[ZB.png](../media/image70.png){width="3.8541666666666665in"
 height="1.0930555555555554in"}
 
 图 67离合式示例1
 
 ![C:\\Users\\cheng\\AppData\\Local\\Temp\\WeChat
-Files\\f524535d0df065337984b22e2a87142.png](media/image71.png){width="3.9583333333333335in"
+Files\\f524535d0df065337984b22e2a87142.png](../media/image71.png){width="3.9583333333333335in"
 height="1.09375in"}
 
 图 68离合式示例2
@@ -755,13 +755,13 @@ height="1.09375in"}
 句2的标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\[K\@T\~60C\[9\[S\@C7\${G\`9QL5.png](media/image72.png){width="3.1041666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\[K\@T\~60C\[9\[S\@C7\${G\`9QL5.png](../media/image72.png){width="3.1041666666666665in"
 height="0.78125in"}
 
 图 69离合式示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\2\~YA6CB8SREEGV{O1\~Y\$HBR.png](media/image73.png){width="3.0833333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\2\~YA6CB8SREEGV{O1\~Y\$HBR.png](../media/image73.png){width="3.0833333333333335in"
 height="0.8958333333333334in"}
 
 图 70离合式示例4
@@ -769,13 +769,13 @@ height="0.8958333333333334in"}
 注意，离合式动宾短语的重叠形式是AAB，例如：洗洗澡，散散步。综合重叠式和并列式的标注细则，那么标注范式是：
 
 ![C:\\Users\\cheng\\AppData\\Local\\Temp\\WeChat
-Files\\6688559d2de14ed8d6747310e9d904e.png](media/image74.png){width="1.5729166666666667in"
+Files\\6688559d2de14ed8d6747310e9d904e.png](../media/image74.png){width="1.5729166666666667in"
 height="0.7680555555555556in"}
 
 图 71离合式范式1
 
 ![C:\\Users\\cheng\\AppData\\Local\\Temp\\WeChat
-Files\\d14f0e16a7a9d98f0c7f7bc5ad244d1.png](media/image75.png){width="1.7395833333333333in"
+Files\\d14f0e16a7a9d98f0c7f7bc5ad244d1.png](../media/image75.png){width="1.7395833333333333in"
 height="0.7548611111111111in"}
 
 图 72离合式范式2
@@ -797,19 +797,19 @@ height="0.7548611111111111in"}
 事实上，很多标注规范都对并列结构进行了详细的描述，标注的方法不尽相同，主要有以下几种形式:
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\EPS\[L\~0\@OEWNQ\[XN(C(7NTF.png](media/image76.png){width="1.8854166666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\EPS\[L\~0\@OEWNQ\[XN(C(7NTF.png](../media/image76.png){width="1.8854166666666667in"
 height="0.375in"}
 
 图 73并列式举例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\WMQ}B\~AK89\[(XO3237RANH5.png](media/image77.png){width="1.96875in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\WMQ}B\~AK89\[(XO3237RANH5.png](../media/image77.png){width="1.96875in"
 height="0.6979166666666666in"}
 
 图 74并列式举例2
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\O{\[)G2G9W4\[T}VOY5GP\~GYB.png](media/image78.png){width="1.9479166666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\O{\[)G2G9W4\[T}VOY5GP\~GYB.png](../media/image78.png){width="1.9479166666666667in"
 height="0.75in"}
 
 图 75并列式举例3
@@ -825,37 +825,37 @@ height="0.75in"}
 > 所以上述三种情况的标注范式分别为：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\$I4ND6TTEUV\]O\_FT2RSVAYB.png](media/image79.png){width="2.2083333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\$I4ND6TTEUV\]O\_FT2RSVAYB.png](../media/image79.png){width="2.2083333333333335in"
 height="0.6145833333333334in"}
 
 图 76并列式范式1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\D905\$JHYP{K\~\_VQP\`O1PWNV.png](media/image80.png){width="2.1666666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\D905\$JHYP{K\~\_VQP\`O1PWNV.png](../media/image80.png){width="2.1666666666666665in"
 height="0.6458333333333334in"}
 
 图 77并列式范式2
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\9{\_8U)QVS64C\`NBL2X2J%(O.png](media/image81.png){width="2.09375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\9{\_8U)QVS64C\`NBL2X2J%(O.png](../media/image81.png){width="2.09375in"
 height="0.65625in"}
 
 图 78并列式范式3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\I4WQ3LAI\[FIZM\_20%IK8\[M4.png](media/image82.png){width="2.0416666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\I4WQ3LAI\[FIZM\_20%IK8\[M4.png](../media/image82.png){width="2.0416666666666665in"
 height="0.625in"}
 
 图 79并列式范式4
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\RO5ERM(Y\[%2NU\@0NWR\]FX7T.png](media/image83.png){width="4.020833333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\RO5ERM(Y\[%2NU\@0NWR\]FX7T.png](../media/image83.png){width="4.020833333333333in"
 height="0.84375in"}
 
 图 80并列式范式5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\OVGV\_NSAZ4ZO)ZGANJF%64C.png](media/image84.png){width="3.90625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\OVGV\_NSAZ4ZO)ZGANJF%64C.png](../media/image84.png){width="3.90625in"
 height="0.7916666666666666in"}
 
 图 81并列式范式6
@@ -865,13 +865,13 @@ height="0.7916666666666666in"}
 分析：这个句子属于并列式的第三种类型，其中，"吃饭"是核心，标注为root，"喝水"依附在"吃饭"上，"睡觉"依附在"喝水"上，"顿号"依附在"吃饭"上，"以及"依附在"睡觉"上。不能忘记的是，"吃饭"、"喝水"以及"睡觉"的主体角色都是"他"，即"他"是一个多父亲节点的节点，实际上，并列结构常常会出现交叉弧现象。另外还有一个标注难点："他"和"一个人"的关系------"一个人"是对"他"的复指，相当于同位关系，所以细粒度标签标注为等同关系eEqu，而粗粒度标签标注为并列关系eCOO。所以标注结果如下所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\PFGW\~\~\@EW43(AK\[\[58VCDOP.png](media/image85.png){width="3.9895833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\PFGW\~\~\@EW43(AK\[\[58VCDOP.png](../media/image85.png){width="3.9895833333333335in"
 height="1.0590277777777777in"}
 
 图 82并列式示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\P7(XN012GRU\[9IDOR800QAD.png](media/image86.png){width="4.229166666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\P7(XN012GRU\[9IDOR800QAD.png](../media/image86.png){width="4.229166666666667in"
 height="1.0833333333333333in"}
 
 图 83并列式示例2
@@ -885,7 +885,7 @@ height="1.0833333333333333in"}
 表格 7兼语式类型表
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\TC4D5KD\~1NX\`(\[O\_LK2O6X1.png](media/image87.png){width="4.958333333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\TC4D5KD\~1NX\`(\[O\_LK2O6X1.png](../media/image87.png){width="4.958333333333333in"
 height="4.134027777777778in"}
 
 我们用"N1+V1+N2+V2"来表示兼语句句式特征。对于兼语句的标注，主要有两个方面的特征一定要标注出来：
@@ -897,13 +897,13 @@ height="4.134027777777778in"}
 前文在讲述心理活动动词是，对于爱恨事兼语的标注有了解释，由于"爱恨式"的N1有很强的主观施动性，所以我们把"N2+V2"结构视为V1的降级客事角色，而N1的语义角色也相对固定，细粒度标签为感事角色Aft，粗粒度标签为施事角色AGT，而其他待标成分之间的语义关系需要结合语境。具体例子可参照心理活动动词示例。标注范式为：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\53\@Z\$KE\_T\`2\_99PK8QA801H.png](media/image88.png){width="3.1979166666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\53\@Z\$KE\_T\`2\_99PK8QA801H.png](../media/image88.png){width="3.1979166666666665in"
 height="0.7604166666666666in"}
 
 图 84兼语式范式1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\59Y(IOGS)3(FX{0\[V}FEOTI.png](media/image89.png){width="3.4479166666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\59Y(IOGS)3(FX{0\[V}FEOTI.png](../media/image89.png){width="3.4479166666666665in"
 height="0.84375in"}
 
 图 85兼语式范式2
@@ -911,13 +911,13 @@ height="0.84375in"}
 对于使令式的兼语，一般来说，由于使令式的动词都具有主观施动性，所以N2是V1的受事角色PAT（细粒度标签也是受事角色），N2是V2的主体角色，而V2是V1的一种结果，所以我们标注为结果事件关系eEFFT，细粒度标签为eRes，其他待标成分之间的语义关系需要结合语境。标注范式为：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\{PVTUC8\]\_V\`3{22V(7K(S29.png](media/image90.png){width="3.375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\{PVTUC8\]\_V\`3{22V(7K(S29.png](../media/image90.png){width="3.375in"
 height="0.78125in"}
 
 图 86兼语式范式3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\3\`U(ZHW4DU%0GGZ%)8V\_A3R.png](media/image91.png){width="3.4583333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\3\`U(ZHW4DU%0GGZ%)8V\_A3R.png](../media/image91.png){width="3.4583333333333335in"
 height="0.7604166666666666in"}
 
 图 87兼语式范式4
@@ -927,13 +927,13 @@ height="0.7604166666666666in"}
 分析：微笑是使的当事角色，你是使的受事角色，同时也是年轻的当事角色。所以标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\433(XSQ6\~PEBB8{JE\${(\_9T.png](media/image92.png){width="3.0520833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\433(XSQ6\~PEBB8{JE\${(\_9T.png](../media/image92.png){width="3.0520833333333335in"
 height="0.7027777777777777in"}
 
 图 88兼语式示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\R3VKP\[@)\$(IYA@{G)E6%V\~U.png](media/image93.png){width="3.2916666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\R3VKP\[@)\$(IYA@{G)E6%V\~U.png](../media/image93.png){width="3.2916666666666665in"
 height="0.6798611111111111in"}
 
 图 89兼语式示例2
@@ -941,13 +941,13 @@ height="0.6798611111111111in"}
 对于选定式和"有"字式的兼语，一般来说，由于这类兼语的前一动词多是对客观情况的描述、动作性不强，所以我们标注为后继事件关系eSUCC，细粒度标签标注为eSucc，其他待标成分需要结合具体语境，所以标注范式为：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\0{}XQHW)9J54ZP\[0ZH5{9U2.png](media/image94.png){width="3.53125in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\0{}XQHW)9J54ZP\[0ZH5{9U2.png](../media/image94.png){width="3.53125in"
 height="0.7486111111111111in"}
 
 图 90兼语式范式5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\7PA\`XI(YRSWL7Z{\_AE8P5D1.png](media/image95.png){width="3.625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\7PA\`XI(YRSWL7Z{\_AE8P5D1.png](../media/image95.png){width="3.625in"
 height="0.7715277777777778in"}
 
 图 91兼语式范式6
@@ -961,13 +961,13 @@ height="0.7715277777777778in"}
 分析：以句1为例，"大家"是"选"的施事角色，"他"是"当"的当事角色，"班长"是"当"的成事角色。所以，标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\11HOCO%\`F%\@KNJRNL%\_\_N%A.png](media/image96.png){width="3.8229166666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\11HOCO%\`F%\@KNJRNL%\_\_N%A.png](../media/image96.png){width="3.8229166666666665in"
 height="0.7527777777777778in"}
 
 图 92兼语式示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\1UF0MKK\[SLB\~\_2U(NMA2\]Z3.png](media/image97.png){width="3.7291666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\1UF0MKK\[SLB\~\_2U(NMA2\]Z3.png](../media/image97.png){width="3.7291666666666665in"
 height="0.7986111111111112in"}
 
 图 93兼语式示例4
@@ -1003,13 +1003,13 @@ height="0.7986111111111112in"}
 但是连谓式内部的几个谓词不管内部语义如何，排列顺序大部分都是按照时间先后。后一动作是前一动作的继续，粗粒度标签标注为后继事件关系eSUCC，细粒度标签标注为eSucc。如果将连谓式的结构表示为"N1+V1+V2"的话，同时我们要注意，一般情况下，这两个谓词都与主体角色N1有关，这两个词之间的语义依存关系也需要表示出来，而语义标签信息需要结合具体语境。所以标注范式如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\Z3FT4\_%\`2\$B)%\]%L\[\]XS\@9U.png](media/image98.png){width="2.4791666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\Z3FT4\_%\`2\$B)%\]%L\[\]XS\@9U.png](../media/image98.png){width="2.4791666666666665in"
 height="0.8020833333333334in"}
 
 图 94连谓式范式1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\S20K3V\]Z(PKMC}3\_D}FFKCE.png](media/image99.png){width="2.4791666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\S20K3V\]Z(PKMC}3\_D}FFKCE.png](../media/image99.png){width="2.4791666666666665in"
 height="0.78125in"}
 
 图 95连谓式范式2
@@ -1019,13 +1019,13 @@ height="0.78125in"}
 分析：本句两个动作分别是"取"和"走"。"走"是"取"的后继事件关系，同时"取"和"走"的主体角色都是"金山"。所以标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\3FMJ%EPTCB)6W%N)(\`59OR7.png](media/image100.png){width="3.571527777777778in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\3FMJ%EPTCB)6W%N)(\`59OR7.png](../media/image100.png){width="3.571527777777778in"
 height="0.8090277777777778in"}
 
 图 96连谓式示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\P)\`5U{RZL%KMXST\_)\_3\_(\_B.png](media/image101.png){width="3.6145833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\P)\`5U{RZL%KMXST\_)\_3\_(\_B.png](../media/image101.png){width="3.6145833333333335in"
 height="0.8236111111111111in"}
 
 图 97连谓式示例2
@@ -1037,13 +1037,13 @@ height="0.8236111111111111in"}
 分析：本句中有三个谓词性成分："看1"，"看2"以及"累"。其中"累"是"看2"的结果，"累"也是主体他的状态。所以，标注结果如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\{X253A7H4VJJ6FBD1N%8U)I.png](media/image102.png){width="3.6458333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\{X253A7H4VJJ6FBD1N%8U)I.png](../media/image102.png){width="3.6458333333333335in"
 height="0.8194444444444444in"}
 
 图 98连谓式示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\)KFVB\~4)\`6%\`2(CYYYX\`S\`N.png](media/image103.png){width="3.40625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\)KFVB\~4)\`6%\`2(CYYYX\`S\`N.png](../media/image103.png){width="3.40625in"
 height="0.78125in"}
 
 图 99连谓式示例4
@@ -1051,13 +1051,13 @@ height="0.78125in"}
 有一种复杂的情况，即兼语连谓兼用句。我们可以将兼语连谓句用"N1+V1+N2+V2"表示，由于兼语连谓句中的V1多是陪伴协助类的动作，所以将V1和V2的关系标注为后继事件关系eSUCC（细粒度标签为eSucc），其他词对之间的语义关系结合具体语境进行标注。所以标注范式为：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\X42YSKP04\_Y)WP\$UOQ\]P3\`N.png](media/image104.png){width="3.4895833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\X42YSKP04\_Y)WP\$UOQ\]P3\`N.png](../media/image104.png){width="3.4895833333333335in"
 height="0.8541666666666666in"}
 
 图 100兼语连谓式范式1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\Z4OO\$}C9PR\[PI4B0)JH)\[6S.png](media/image105.png){width="3.375in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\Z4OO\$}C9PR\[PI4B0)JH)\[6S.png](../media/image105.png){width="3.375in"
 height="0.8854166666666666in"}
 
 图 101兼语连谓式范式4
@@ -1067,13 +1067,13 @@ height="0.8854166666666666in"}
 分析：这个句子涵盖了三个语义事件，分别是："我上楼"，"他上楼"，"我陪他"，标注的时候要将这些情况标注出来。标注结果用依存图展示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`)H\`KC}Z08T\]\~}\$NL\~4}IOF.png](media/image106.png){width="3.0416666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\`)H\`KC}Z08T\]\~}\$NL\~4}IOF.png](../media/image106.png){width="3.0416666666666665in"
 height="0.7486111111111111in"}
 
 图 102兼语连谓式示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\]E\~6DE\[I\@LSBW\]DTTW6TBC6.png](media/image107.png){width="3.4166666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\]E\~6DE\[I\@LSBW\]DTTW6TBC6.png](../media/image107.png){width="3.4166666666666665in"
 height="0.7888888888888889in"}
 
 图 103兼语连谓式示例2
@@ -1099,13 +1099,13 @@ height="0.7888888888888889in"}
 关于补充成分和谓语中心的关系，我们将依存弧由谓语中心指向补语，粗粒度标签标注为结果事件关系eEFFT，细粒度标签标注为eRes。同时这个补充成分作为一个新产生的动作结果，也是语义事件中某个参与者的某种状态，所以，它又依存于该参与者，与主客体角色发生语义关系。用"N1+V+VC+N2"组合来表示这种结构，VC表示补语，其中N2的位置不定，可以出现在中补结构之后，也可以由介词"把"引出，放在谓语中心之前，也可以是N2的一个附属成分。当参与者N2位置提前的时候，就会出现依存弧交叉的情况。要注意VC依附于哪一个成分上。所以标注范式如下图所示：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\FX58H\~C\@9TJ{NTFU3F5\~{MP.png](media/image108.png){width="2.7291666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\FX58H\~C\@9TJ{NTFU3F5\~{MP.png](../media/image108.png){width="2.7291666666666665in"
 height="0.6770833333333334in"}
 
 图 104中补式范式1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\\@ZQ27L1LJH\[)D84QNT1H4)A.png](media/image109.png){width="2.65625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\\@ZQ27L1LJH\[)D84QNT1H4)A.png](../media/image109.png){width="2.65625in"
 height="0.6979166666666666in"}
 
 图 105中补式范式2
@@ -1115,13 +1115,13 @@ height="0.6979166666666666in"}
 分析：本句中，第一个"哭"是谓语中心，"他"是这个"哭1"的施事角色；"哭2"是"哭1"的结果，同时"哭2"的动作发出这是"导演"。这个句子解构出来的两个语义事件是："他哭"和"导演哭"。所以，标注结果显示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\XU}MW3G8\]TCN4IM3(2%G0KP.png](media/image110.png){width="4.145833333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\XU}MW3G8\]TCN4IM3(2%G0KP.png](../media/image110.png){width="4.145833333333333in"
 height="0.9048611111111111in"}
 
 图 106中补式示例1
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\Q\_KKJF01AQOTV3@\`4(6C4XP.png](media/image111.png){width="4.072916666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\Q\_KKJF01AQOTV3@\`4(6C4XP.png](../media/image111.png){width="4.072916666666667in"
 height="0.9451388888888889in"}
 
 图 107中补式示例2
@@ -1131,13 +1131,13 @@ height="0.9451388888888889in"}
 分析：本句有两层中补式。第一层是"写"的结果补语\<好\>，第二层是"好"的程度补语\<极\>。该语义事件的中枢论元root是"写"，"写"的结果是"好"，"好"的程度是"极"，"他"是"写"的施事，"作业"是"好"的当事。也就是说，这个句子解构出来的两个语义事件是："他写作业"和"作业好极了"。标注结果用依存图显示如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\ZEVQ\$NQJT\[EEQAY1T3DP3GQ.png](media/image112.png){width="4.260416666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\ZEVQ\$NQJT\[EEQAY1T3DP3GQ.png](../media/image112.png){width="4.260416666666667in"
 height="0.7680555555555556in"}
 
 图 108中补式示例3
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\6K\$\$2IC}BL8\~\[XEEMK\@EJK7.png](media/image113.png){width="4.333333333333333in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\6K\$\$2IC}BL8\~\[XEEMK\@EJK7.png](../media/image113.png){width="4.333333333333333in"
 height="0.7458333333333333in"}
 
 图 109中补式示例4
@@ -1149,37 +1149,37 @@ height="0.7458333333333333in"}
 对上述三个短语的标注示例分别如下：
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\%PX4R6\@6\[GZJ611Z%\`\](CAF.png](media/image114.png){width="1.9791666666666667in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\%PX4R6\@6\[GZJ611Z%\`\](CAF.png](../media/image114.png){width="1.9791666666666667in"
 height="0.6597222222222222in"}
 
 图 110中补式示例5
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\6NV01\@E\~\`43QO9O(DXK20GD.png](media/image115.png){width="2.0833333333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\6NV01\@E\~\`43QO9O(DXK20GD.png](../media/image115.png){width="2.0833333333333335in"
 height="0.5833333333333334in"}
 
 图 111中补式示例6
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\RFUV}TDFV\[\@5DI8HL5N51CK.png](media/image116.png){width="2.1145833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\RFUV}TDFV\[\@5DI8HL5N51CK.png](../media/image116.png){width="2.1145833333333335in"
 height="0.6236111111111111in"}
 
 图 112中补式示例7
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\))Z\@CV5TD)\]\$R0\`A{S\@8\`HX.png](media/image117.png){width="2.0416666666666665in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\))Z\@CV5TD)\]\$R0\`A{S\@8\`HX.png](../media/image117.png){width="2.0416666666666665in"
 height="0.5701388888888889in"}
 
 图 113中补式示例8
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\THMY{S\$LZZ6L9(\~U2M\~0NTV.png](media/image118.png){width="1.90625in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\THMY{S\$LZZ6L9(\~U2M\~0NTV.png](../media/image118.png){width="1.90625in"
 height="0.6284722222222222in"}
 
 图 114中补式示例9
 
 ![C:\\Users\\cheng\\Documents\\Tencent
-Files\\1501808365\\FileRecv\\MobileFile\\Image\\D43S6E\`OQ\$I3Z\~R17C9FC\@Y.png](media/image119.png){width="2.0520833333333335in"
+Files\\1501808365\\FileRecv\\MobileFile\\Image\\D43S6E\`OQ\$I3Z\~R17C9FC\@Y.png](../media/image119.png){width="2.0520833333333335in"
 height="0.6152777777777778in"}
 
 图 115中补式示例10
